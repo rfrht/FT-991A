@@ -17,6 +17,6 @@ Here's a compilation of a few materials that I have produced - hope it is of hel
 ## Ramblings
 | [FT-991A Front-End Preselectors (pre-BPF)](https://github.com/rfrht/FT991A-PAT/wiki/appendix-preselector-rx-stage-characteristics) | [FT-991A DSP, filters and noise treatment](https://github.com/rfrht/FT-991A/wiki/Fix-USB-Driver-in-Yaesu-Equipments) |
 | :---: | :---: |
-| **[My FT-991A review and impressions](https://github.com/rfrht/FT-991A/wiki/Review-FT-991A)** | **** |
+| **[My FT-991A review and impressions](https://github.com/rfrht/FT-991A/wiki/Review-FT-991A)** | **[What's the use of the "Standard" COM port?](https://github.com/rfrht/FT-991A/wiki/The-Standard-COM-Port---what-is-that-and-its-use)** |
 
 73 de PY2RAF.
