@@ -13,6 +13,7 @@ Here's a compilation of a few materials that I have produced - hope it is of hel
 | **[Sharing your CAT port between other programs](https://github.com/rfrht/FT991A-PAT/wiki/appendix-sharing-serial-port)** | **[Discovering (and using) a built-in second CAT port in your FT-991A](https://github.com/rfrht/FT-991A/wiki/Two-CAT-ports-in-FT-991A)** |
 | **[Embedding an Panadapter to your FT-991A](https://github.com/rfrht/FT991A-PAT/tree/PAT-Light)** | **[Using your PC to control your FT-991A and mix the audio](https://github.com/rfrht/Voicemeeter-FT-991A)** |
 | **[Do-It-Yourself the FH-2 Remote Control](https://github.com/rfrht/RFH-2)** | **[A timer to keep your long QSOs under reins](https://github.com/rfrht/Yaesu-OLED-TX-Timer)** |
+| **[FT-991A Automatic Tuner Grounding Issues](https://github.com/rfrht/FT-991A/wiki/Poor-Grounding-in-FT-991A-Tuner-Unit)** | **** |
 
 ## Ramblings
 | [FT-991A Front-End Preselectors (pre-BPF)](https://github.com/rfrht/FT991A-PAT/wiki/appendix-preselector-rx-stage-characteristics) | [FT-991A DSP, filters and noise treatment](https://github.com/rfrht/FT-991A/wiki/Fix-USB-Driver-in-Yaesu-Equipments) |
