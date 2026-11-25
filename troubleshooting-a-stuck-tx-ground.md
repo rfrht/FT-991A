@@ -49,7 +49,7 @@ As per the aforementioned article, the FT-991A has strong protections - BUT, the
 
 In order to overcome that limitation, I have soldered a GDT directly at the connector where it meets the board: a 300V variant at the HF connector and 90V at the VHF/UHF connector.
 
-After replacing the 300V GDT that I had at the terminal, I cracked open the one that was at the radio.
+After replacing the 300V GDT, I cracked open the one that was at the radio, soldered at the connector terminal.
 
 <img width="800" height="442" alt="gdt-damaged" src="https://github.com/user-attachments/assets/3bcab97a-f3ef-418c-8fcc-438e5fdc7f82" />
 
