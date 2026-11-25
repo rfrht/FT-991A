@@ -1,8 +1,8 @@
 # Troubleshooting a stuck TX Ground in FT-991A
 ## Introduction and problem statement
-I had my FT-991A turned on and providing feed to pskreporter on 30m band when a lightning striked nearby. From that moment onwards, its `TX GROUND` (that I use to drive a linear amp) pin was active all time, even during RX - as the radio would be permanently transmitting.
+I had my FT-991A turned on and providing feed to pskreporter on 30m band when a lightning striked nearby. From that moment onwards, its `TX GROUND` (that I use to drive a linear amp) pin was active all time, even during RX - as the radio would be permanently transmitting. The transceiver sensitivity was unaffected: FT8 software gives around a minute of coverage of signals and the subsequent signal strength was similar to before the event.
 
-When I found that the nearby technician was booked out for the rest of the year, I decided to try to find out what was going on.
+Called my favorite repairmen: When I found that the nearby technician was booked out for the rest of the year, I decided to try to find out what was going on.
 
 ## Schematic
 This is a summarized and annotated version of the schematic, highlighting the parts relevant to this defect.
