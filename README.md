@@ -21,6 +21,7 @@ Here's a compilation of a few materials that I have produced - hope it is of hel
 | [**Configuring the FT-991A for 9600 bps FM packet**](https://github.com/rfrht/FT-991A/wiki/Configuring-the-FT-991A-for-9600-bps-FM-packet) | [**FT-991A Intermittent and fading audio in internal speaker**](https://github.com/rfrht/FT-991A/wiki/FT-991A-Intermittent-and-fading-audio-in-internal-speaker)  | 
 | [**Configuring the FT-991A and GPredict for ISS and Satellite Tracking**](https://github.com/rfrht/FT-991A/wiki/Configuring-FT-991A-and-GPredict-for-ISS-and-Satellite-Tracking) | [**Exploring extended functionalities not covered by CAT commands using SPR and SPW commands**](https://github.com/rfrht/991A-Commander/tree/master#yaesu-ft-991a-spr-and-spw-utilities) |
 | [**Improving the UHF/VHF reception**](https://old.reddit.com/r/amateurradio/comments/1gxahma/noticeable_improvement_in_ft991a_2m_rx_when_using/) | [**Understanding FT-991A TX Inhibit**](https://github.com/rfrht/FT-991A/blob/master/understanding-ft-991a-tx-inhibit.md) |
+| [**Troubleshooting a stuck TX Ground in FT-991A**](https://github.com/rfrht/FT-991A/blob/master/troubleshooting-a-stuck-tx-ground.md) | |
 
 ## Ramblings
 | [FT-991A Front-End Preselectors (pre-BPF)](https://github.com/rfrht/FT991A-PAT/wiki/appendix-preselector-rx-stage-characteristics) | [FT-991A DSP, filters and noise treatment](https://github.com/rfrht/FT-991A/wiki/FT-991A-DSP-and-DNR-performance) |
