@@ -56,3 +56,5 @@ After replacing the 300V GDT, I cracked open the one that was at the radio, sold
 While there are no signals of massive destruction, it's undeniable that it was pressed into operation a number of times; you can see some charring on the internal wall of the GDT.
 
 Hope that helps. Stay safe, 73 de PY2RAF.
+
+## [Back to Home](https://github.com/rfrht/FT-991A)
